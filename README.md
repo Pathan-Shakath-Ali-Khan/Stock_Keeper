@@ -1,0 +1,1 @@
+Stock Keeper: A Flask web application for managing product inventory, enabling users to add, edit, view, and delete product details like name, description, rating, stock quantity, and price.<br> Built with SQLAlchemy for database interactions, this tool streamlines product management in a user-friendly interface.
